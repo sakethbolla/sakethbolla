@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saketh</h1>
 <h3 align="center">A passionate Cloud and DevOps Engineer from India</h3>
 
-- 🔭 I’m currently working as an ASE in india for a project based on **DevSecOps**.
+- 🔭 I’m currently working as an ASE for a project based on **DevSecOps**.
 
 - 👯 I’m looking to collaborate on **Terraform**
 
