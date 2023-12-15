@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Saketh</h1>
-<h3 align="center">A passionate Cloud Engineer from India</h3>
+<h3 align="center">A passionate Cloud and DevOps Engineer from India</h3>
 
-- 🔭 I’m currently working on learning **DevSecOps**
+- 🔭 I’m currently working as Cloud Engineer in india and parallely learning **DevSecOps**
 
 - 👯 I’m looking to collaborate on **Terraform**
 
 - 💬 Ask me about **GCP, Terraform, Docker, Jenkins, Kubernetes**
 
-- 📫 How to reach me **sakethbolla@gmail.com**
+- 📫 How to reach me  **sakethbolla@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/sai-saketh-bolla/ </h3>
 <p align="left">
 </p>
 
