@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saketh</h1>
-<h3 align="center">A passionate Cloud and DevOps Engineer from Washington, DC</h3>
+<h3 align="center">A passionate Tech Engineer </h3>
 
-- 🔭 I’m currently working as an ASE for a project based on **DevSecOps**.
-
-- 👯 I’m looking to collaborate on **Terraform**
-
-- 💬 Ask me about **GCP, Terraform, Docker, Jenkins, Kubernetes**
+- 🔭 I’m currently pursuing masters in software engineering.
 
 - 📫 How to reach me  **sakethbolla@gmail.com**
 
