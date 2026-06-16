@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently pursuing masters in software engineering.
 
-- 📫 How to reach me  **sakethbolla@gmail.com**
+- 📫 How to reach me  **saisakethbollamr@gmail.com**
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/sai-saketh-bolla/ </h3>
 <p align="left">
